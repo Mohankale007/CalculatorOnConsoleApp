@@ -1,0 +1,14 @@
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\bin\Debug\net6.0\CalculatorOnConsoleApp.exe
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\bin\Debug\net6.0\CalculatorOnConsoleApp.deps.json
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\bin\Debug\net6.0\CalculatorOnConsoleApp.runtimeconfig.json
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\bin\Debug\net6.0\CalculatorOnConsoleApp.dll
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\bin\Debug\net6.0\CalculatorOnConsoleApp.pdb
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\obj\Debug\net6.0\CalculatorOnConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\obj\Debug\net6.0\CalculatorOnConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\obj\Debug\net6.0\CalculatorOnConsoleApp.AssemblyInfo.cs
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\obj\Debug\net6.0\CalculatorOnConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\obj\Debug\net6.0\CalculatorOnConsoleApp.dll
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\obj\Debug\net6.0\refint\CalculatorOnConsoleApp.dll
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\obj\Debug\net6.0\CalculatorOnConsoleApp.pdb
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\obj\Debug\net6.0\CalculatorOnConsoleApp.genruntimeconfig.cache
+C:\Users\mmkal\source\c#\CalculatorOnConsoleApp\CalculatorOnConsoleApp\obj\Debug\net6.0\ref\CalculatorOnConsoleApp.dll
